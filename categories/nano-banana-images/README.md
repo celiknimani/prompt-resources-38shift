@@ -6,7 +6,8 @@ This category contains specialized prompts for generating unique, high-quality "
 
 | Prompt Title | Description | Link |
 | :--- | :--- | :--- |
-| **Example Nano Banana** | A baseline prompt for a minimalist nano banana. | [example.md](example.md) |
+| **Cyberpunk Nano** | A high-tech, neon-lit titanium banana piece. | [cyberpunk-nano.md](cyberpunk-nano.md) |
+| **Anatomical Schematic** | A scientific cross-section showing internal tech. | [anatomical-schematic.md](anatomical-schematic.md) |
 
 ## 📐 Best Practices
 

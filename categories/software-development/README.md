@@ -4,9 +4,10 @@ Highly technical prompts designed for engineers, architects, and developers to s
 
 ## 📁 Prompt Collection
 
-- `debugging-assistant`: Systematic approach to identifying and fixing bugs.
-- `architecture-reviewer`: Critical analysis of system designs.
-- `documentation-generator`: Automating README and API docs.
+| Prompt Title | Description | Link |
+| :--- | :--- | :--- |
+| **Code Review Pro** | Exhaustive review for security, performance, and clean code. | [code-review-pro.md](code-review-pro.md) |
+| **System Architecture Designer** | Generate technical blueprints for scalable apps. | [system-architecture-designer.md](system-architecture-designer.md) |
 
 ## 🛠️ Usage Tips
 

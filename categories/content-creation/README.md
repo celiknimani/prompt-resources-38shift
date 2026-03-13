@@ -4,9 +4,10 @@ Prompts for writers, marketers, and storytellers to generate engaging content an
 
 ## 📁 Prompt Collection
 
-- `blog-post-outline`: Structured frameworks for high-SEO articles.
-- `social-media-thread`: viral thread hooks and structure.
-- `creative-story-starter`: Narrative prompts with deep character development.
+| Prompt Title | Description | Link |
+| :--- | :--- | :--- |
+| **SEO Content Pillar** | Write comprehensive, high-ranking pillar articles. | [seo-content-pillar.md](seo-content-pillar.md) |
+| **Social Media Growth Engine** | Viral hooks and threads for LinkedIn and X. | [social-media-growth-engine.md](social-media-growth-engine.md) |
 
 ## ✨ Creativity Boosters
 

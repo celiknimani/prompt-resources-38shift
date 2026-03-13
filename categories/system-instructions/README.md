@@ -4,9 +4,10 @@ Foundational prompts designed to be used in the system role of LLMs to define lo
 
 ## 📁 Prompt Collection
 
-- `expert-tutor`: A persona that guides learners through complex topics.
-- `unbiased-reviewer`: Focuses on objective analysis and logic.
-- `concise-assistant`: Minimizes fluff and prioritizes direct answers.
+| Prompt Title | Description | Link |
+| :--- | :--- | :--- |
+| **Expert Consultant Persona** | Strategic, data-driven BCG/McKinsey style persona. | [expert-consultant-persona.md](expert-consultant-persona.md) |
+| **Critical Thinking Facilitator** | A Socratic partner that challenges assumptions. | [critical-thinking-facilitator.md](critical-thinking-facilitator.md) |
 
 ## 🛡️ Best Practices
 

@@ -4,9 +4,10 @@ Professional prompts for data-driven decision making, market research, and strat
 
 ## 📁 Prompt Collection
 
-- `swot-analysis-generator`: Competitive landscape breakdown.
-- `financial-report-interpreter`: Extracting insights from quarterly results.
-- `market-entry-strategy`: Frameworks for expanding into new territories.
+| Prompt Title | Description | Link |
+| :--- | :--- | :--- |
+| **Market Disruption Audit** | Identify vulnerabilities in industries/competitors. | [market-disruption-audit.md](market-disruption-audit.md) |
+| **SaaS Unit Economics Analyzer** | Financial health check for B2B models. | [saas-unit-economics-analyzer.md](saas-unit-economics-analyzer.md) |
 
 ## 📈 Analytical Rigor
 
